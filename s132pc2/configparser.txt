@@ -1,0 +1,20 @@
+import configparser
+config = configparser.ConfigParser()
+config.sections()
+config.read('example.seq')
+['example.ini']
+>>> config.sections()
+['bitbucket.org', 'topsecret.server.com']
+
+substring="Region"
+for key in config.sections():
+	if 		
+print config[key][Enabled]
+
+config['Region 0']['Enabled']
+config['Region 0']['Name']
+
+Low Energy=160
+High Energy=790
+Energy Step=0.5
+Step Time=17

@@ -1,0 +1,62 @@
+	----------------------------		4
+	----------------------------		8
+	----------------------------		12
+	----------------------------		17
+	----------------------------		31
+	----------------------------		36
+	----------------------------		48
+	----------------------------		197
+	About SES...		51
+	Control Monochromator...		190
+	Control Supplies...		37
+	Default		198
+	Detector...		34
+	Edit Positions...		195
+	Elements...		23
+	Error List		15
+	Excitation Energies...		30
+	Exit		13
+	File Options...		28
+	Force Stop	Ctrl+X	47
+	Global Detector...		26
+	High Pass		187
+	Instrument...		21
+	Jump to next Region	Ctrl+N	44
+	Jump to next Sequence	Shift+Ctrl+N	45
+	Lens Modes...		24
+	Low Pass		186
+	Manual Control...		194
+	New Instrument...		5
+	Number of Sweeps...		43
+	Open Instrument...		6
+	Open Spectrum...	Ctrl+O	2
+	Open Viewer...		191
+	Options...		11
+	Reset	Ctrl+T	9
+	Run	Ctrl+G	39
+	Save Instrument As...		7
+	Save Spectrum...	Ctrl+S	3
+	Sequence Tree		16
+	Setup...	Ctrl+U	49
+	Setup...		189
+	Setup...		193
+	Show Detector Information...		19
+	Show Position...		196
+	Show Supply Information...		18
+	Signals...		27
+	Stop after Region	Ctrl+R	40
+	Stop after Sequence	Ctrl+Q	41
+	Stop after Sweep	Ctrl+W	42
+	Supplies...		22
+	User Interfaces...		29
+	Voltages...		33
+	Zero Supplies	Ctrl+Z	10
+Calibration		-1
+File		-1
+Help		-1
+Installation		-1
+Manipulator		-1
+Monochromator		-1
+Sequence		-1
+Setup		-1
+View		-1
