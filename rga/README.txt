@@ -1,0 +1,1 @@
+SRS RGA-200 is connected to COM1 on bl132pc2
