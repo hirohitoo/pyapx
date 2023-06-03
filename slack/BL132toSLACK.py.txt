@@ -11,7 +11,6 @@ MTEXT=" changed from "+str(X0)+" to "+str(X1)+" ."
 
 
 
-webhook_url = 'https://hooks.slack.com/services/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'
 slack_data ={'channel': NCHANNEL, 'username': NUSERNAME, 'text': MTEXT, 'icon_emoji': ":Notebook:"}
 #slack_data ={'channel': "#20210215_92i3chen", 'username': "ssrl.bl132", 'text': MTEXT, 'icon_emoji': ":Notebook:"}
 response = requests.post(
